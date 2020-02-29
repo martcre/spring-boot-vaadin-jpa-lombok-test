@@ -1,4 +1,4 @@
-package com.example;
+package de.martcre.wf.service;
 
 import java.io.Serializable;
 
